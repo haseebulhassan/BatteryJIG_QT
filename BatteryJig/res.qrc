@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/batterycharging.png</file>
+        <file>Resource/batterydischarging.png</file>
+        <file>Resource/lowbattery.png</file>
+        <file>Resource/Charging Color.png</file>
+        <file>Resource/Lowbattery color.png</file>
+        <file>Resource/Discharging color.png</file>
+    </qresource>
+</RCC>
